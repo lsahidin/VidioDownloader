@@ -8,12 +8,12 @@ This project build on framework from Microsoft Visual Studio .Net using module S
 
 ### Development Prerequisites
 
-Of course, we need Microsoft Visual Studio as development tools with installed .Net Framework 3.5 or later, ffmpeg.exe that you can get from ![offical website](https://ffmpeg.org/) and a glass of coffee to shake our mind
+Of course, we need Microsoft Visual Studio as development tools with installed .Net Framework 3.5 or later, ffmpeg.exe that you can get from [offical website](https://ffmpeg.org/) and a glass of coffee to shake our mind
 
 ### Step for Testing
 
 **Version 1.0.0.0 - 2017**
-* Open movie in ![vidio.com](http://www.vidio.com/) 
+* Open movie in [vidio.com](http://www.vidio.com/) 
 * Right click on page then choose View page source
 * Find keyword "vjs_playlist.m3u8"
 * Click that link to download .m3u8 file
@@ -30,7 +30,7 @@ Of course, we need Microsoft Visual Studio as development tools with installed .
 
 
 ## Compiled project
-Wanna try? please dowload app from [this link](https://github.com/lsahidin/VidioDownloader/releases/download/1.0.2.0/Vidio.Downloader.zip)
+Wanna try? please dowload app from [this link](https://github.com/lsahidin/VidioDownloader/releases/download/1.0.2.0/Vidio.zip)
 
 
 ## Author
