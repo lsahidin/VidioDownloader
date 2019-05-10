@@ -40,6 +40,4 @@ Wanna try? please dowload app from [this link](https://github.com/lsahidin/Vidio
 
 ## License
 
-This project is licensed under Creative Commons - see the [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) file for details <br />
-![creativecommon](https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_.png)
-![freecultural](https://creativecommons.org/images/deed/FreeCulturalWorks_seal_x2.jpg)
+This project is licensed under Creative Commons - see the [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) file for details.
