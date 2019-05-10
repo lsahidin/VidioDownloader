@@ -1,6 +1,6 @@
-# Vidio Downloader
+# Vidio streaming downloader
 
-Help user to collect their favorite movie in some clicks from [vidio.com](http://www.vidio.com/)
+Help user to collect their favorite movie in some click from [vidio.com](http://www.vidio.com/) and Terafile stream video
 
 ## Getting Started
 
@@ -8,15 +8,25 @@ This project build on framework from Microsoft Visual Studio .Net using module S
 
 ### Prerequisites
 
-Of course we need Microsoft Visual Studio as development tools, internet connection and coffee on your desk
+Of course, we need Microsoft Visual Studio as development tools with installed .Net Framework 3.5 or later, ffmpeg.exe include on bin/Debug folder and a glass of coffee to shake our mind
 
-### Testing
+### Step for Testing
 
+**Version 1.0.0.0 - 2017**
 * Open movie in [vidio.com](http://www.vidio.com/) 
 * Right click on page then choose View page source
 * Find keyword "vjs_playlist.m3u8"
 * Click that link to download .m3u8 file
 * Run Vidio Downloader and browse .m3u8 file to get the list of streaming file
+
+**Version 1.0.2.0 - latest update**
+* No more to find .m3u8 file
+* to download from [vidio.com](http://www.vidio.com), just copy/paste video id such as picture below:
+![vidiourl](https://user-images.githubusercontent.com/12827784/57500462-b5994280-730d-11e9-9569-6adfc7d4b54a.jpg)
+* Whereas to download from Terafile.net, you can copy full url such as picture below. 
+![teraurl](https://user-images.githubusercontent.com/12827784/57500499-d82b5b80-730d-11e9-910e-01745fe58fa7.jpg)
+* But some website video streaming using terafile player, while video playing try to right click then choose to menu "Terafile" such as picture below, then you will redirect to new window with the url
+![terafile](https://user-images.githubusercontent.com/12827784/57500523-e4afb400-730d-11e9-9867-258e5bbee771.jpg)
 
 ## Author
 
