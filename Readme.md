@@ -25,7 +25,7 @@ Of course, we need Microsoft Visual Studio as development tools with installed .
 ![vidiourl](https://user-images.githubusercontent.com/12827784/57500462-b5994280-730d-11e9-9569-6adfc7d4b54a.jpg)
 * Whereas to download from Terafile.net, you can copy full url such as picture below. 
 ![teraurl](https://user-images.githubusercontent.com/12827784/57500499-d82b5b80-730d-11e9-910e-01745fe58fa7.jpg)
-* But some website video streaming using terafile player, while video playing try to right click then choose to menu "Terafile" such as picture below, then you will redirect to new window with the url
+* But some website video streaming using JW player for terafile, while video playing try to right click on player then choose to menu "Terafile" such as attached picture, then you will redirect to new window with the url you can paste to downloader
 ![terafile](https://user-images.githubusercontent.com/12827784/57500523-e4afb400-730d-11e9-9867-258e5bbee771.jpg)
 
 ## Author
