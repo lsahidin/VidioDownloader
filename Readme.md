@@ -28,16 +28,11 @@ Of course, we need Microsoft Visual Studio as development tools with installed .
 * But some website video streaming using JW player for terafile, while video playing try to right click on player then choose to menu "Terafile" such as attached picture, then you will redirect to new window with the url you can paste to downloader <br />
 ![terafile](https://user-images.githubusercontent.com/12827784/57500523-e4afb400-730d-11e9-9867-258e5bbee771.jpg)
 
-
-## Compiled project
-Wanna try? please dowload app from [this link](https://github.com/lsahidin/VidioDownloader/releases/download/1.0.2.0/Vidio.zip)
-
+## Releases
+Wanna try? please dowload binaries from [this link](https://github.com/lsahidin/VidioDownloader/releases/download/1.0.2.0/Vidio.zip)
 
 ## Author
-
 * **Luqman Sahidin** - *Initial work* - [lsahidin](https://github.com/lsahidin)
 
-
 ## License
-
 This project is licensed under Creative Commons - see the [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) file for details.
