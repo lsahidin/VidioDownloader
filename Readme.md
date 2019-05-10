@@ -29,7 +29,7 @@ Of course, we need Microsoft Visual Studio as development tools with installed .
 ![terafile](https://user-images.githubusercontent.com/12827784/57500523-e4afb400-730d-11e9-9867-258e5bbee771.jpg)
 
 ## Releases
-Wanna try? please dowload binaries from [this link](https://github.com/lsahidin/VidioDownloader/releases/download/1.0.2.0/Vidio.zip)
+Wanna try? please dowload binaries from [this link](https://github.com/lsahidin/VidioDownloader/releases)
 
 ## Author
 * **Luqman Sahidin** - *Initial work* - [lsahidin](https://github.com/lsahidin)
