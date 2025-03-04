@@ -1,6 +1,7 @@
 # Streaming video downloader
 
 Help user to collect their favorite movie in some click from Vidio.com and Terafile stream video
+![downloader](https://github.com/user-attachments/assets/0c2feb37-88df-4a28-95a7-e9b02c05198e)
 
 ## Getting Started
 
